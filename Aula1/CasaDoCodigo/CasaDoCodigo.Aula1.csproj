@@ -8,6 +8,10 @@
     <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <EnableDefaultContentItems>false</EnableDefaultContentItems>
+  </PropertyGroup>
+
   <ItemGroup>
     <Content Include="wwwroot\images\logo.png" />
     <Content Include="wwwroot\images\produtos\large_1.jpg" />
