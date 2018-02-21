@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaDoCodigo.Aula3", "Aula3\CasaDoCodigo\CasaDoCodigo.Aula3.csproj", "{594CDC54-6B67-41B1-AF80-C250A3C9C7CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaDoCodigo.Aula4", "Aula4\CasaDoCodigo\CasaDoCodigo.Aula4.csproj", "{9E513FBF-1231-4D2B-821D-1C1167F22ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{594CDC54-6B67-41B1-AF80-C250A3C9C7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{594CDC54-6B67-41B1-AF80-C250A3C9C7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{594CDC54-6B67-41B1-AF80-C250A3C9C7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{594CDC54-6B67-41B1-AF80-C250A3C9C7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E513FBF-1231-4D2B-821D-1C1167F22ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E513FBF-1231-4D2B-821D-1C1167F22ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E513FBF-1231-4D2B-821D-1C1167F22ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E513FBF-1231-4D2B-821D-1C1167F22ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
